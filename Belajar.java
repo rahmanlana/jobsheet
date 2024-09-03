@@ -1,7 +1,6 @@
-public class Belajar()
-{
+public class Belajar {
 
-    public static void voin(String[]args) {
+    public static void voin(String[] args) {
         System.out.println("cek");
     }
 
